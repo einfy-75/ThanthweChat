@@ -1,7 +1,6 @@
 ![image](https://github.com/einfy-75/ThanthweChat/assets/130383529/154b4679-701a-4c27-8fe0-0cf0b11a123d)
 
-**
-Mistral Mental Health Chatbot**
+MENTAL HEALTH CHATBOT M,ISTRAL FINETUNE 
 
 Introduction
 Welcome to the Mistral Mental Health Chatbot repository! This project aims to provide a supportive and informative platform for individuals seeking mental health assistance and guidance. Leveraging cutting-edge technologies and fine-tuned models, Mistral offers a user-friendly interface for engaging conversations and helpful insights.
