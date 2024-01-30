@@ -1,7 +1,7 @@
 ![image](https://github.com/einfy-75/ThanthweChat/assets/130383529/154b4679-701a-4c27-8fe0-0cf0b11a123d)
 
-
-Mistral Mental Health Chatbot
+**
+Mistral Mental Health Chatbot**
 
 Introduction
 Welcome to the Mistral Mental Health Chatbot repository! This project aims to provide a supportive and informative platform for individuals seeking mental health assistance and guidance. Leveraging cutting-edge technologies and fine-tuned models, Mistral offers a user-friendly interface for engaging conversations and helpful insights.
@@ -25,22 +25,19 @@ Required packages: os, warnings, pandas, wandb, torch, transformers, bitsandbyte
 Installation
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/einfy-75/ThanthweChat.git
 Install dependencies:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Usage
 To start interacting with Mistral:
 
 Run the chatbot script:
 
-bash
-Copy code
-python chatbot.py
+
+python thanthwechat.py
 Follow the prompts and engage in conversations with Mistral regarding mental health concerns.
 
 Feedback and Contribution
